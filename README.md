@@ -1,4 +1,4 @@
-# CardGameSimulation
+# Card Game Simulation (Equal Value Simulation)
 simulation of a card game i made
 
 this simulation wasd used to show what the chance that any given player will win for all the 13 different ways to play the game to show that “Equal value” (name of game) is fair enough. Theoretical calculations and computer simulations of the game where used to show that the chance of winning for either player is close to equal.
