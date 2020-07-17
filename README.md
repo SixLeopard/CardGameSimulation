@@ -9,5 +9,6 @@ How to play:
 3.	player 1 picks up the same number of cards from the first deck and compares the value of each card to the cards off to the side. If all the face values match, then they win. If all the cards don’t match, they place all the cards back in the deck and shuffle it.
 4.	Player 2 repeats the same process in step 3
 5.	The player 1 does the same thing repeating until a player get all the required values.
+
 Planning behind the game:
 The game was designed so that there are 13 different chances of either player winning based on how many cards they pick at the start of the game. By picking up the same amount of cards at once as they are trying to get, it removes the need for keeping cards in your hand or remember what you have making the game a lot simpler for people to play. With the game only requiring 2 decks of cards to play its very accessible to everyone as most people already have multiple decks of cards and cards are very inexpensive, if they don’t have them. The game must be mostly fair so that either player doesn’t think the other person has an advantage, but It also had to be asymmetric to make the game more exciting.
